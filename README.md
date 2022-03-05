@@ -6,13 +6,13 @@ The purpose of this assignment was to 'scrape' information from  multiple websit
 
 ## Scraped Websites:
 
-* https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest
+* [Mars News](https://mars.nasa.gov/news/?page=0&per_page=40&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest)
 
-* https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html
+* [Featured Mars Image](https://data-class-jpl-space.s3.amazonaws.com/JPL_Space/index.html)
 
-* https://space-facts.com/mars/
+* [Mars Facts](https://space-facts.com/mars/)
 
-* https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
+* [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 
 ## Results
 
